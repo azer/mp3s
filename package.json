@@ -1,0 +1,26 @@
+{
+  "name": "mp3s",
+  "version": "0.0.0",
+  "description": "Extracting MP3 Urls From Given URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "dependencies": {
+    "request": "*",
+    "findall": "0.0.4"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "mp3",
+    "extract"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/mp3s.git",
+    "type": "git"
+  },
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}

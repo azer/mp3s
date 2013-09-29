@@ -1,6 +1,6 @@
 ## mp3s
 
-Extracting MP3 Urls From Given URL
+Extract MP3 Urls From Given URL
 
 ```js
 mp3s = require('mp3s')
